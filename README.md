@@ -1,15 +1,16 @@
 <div align='center'>
   
-# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Variational Quantum Eigensolver (VQE)
-Team Name: anonymousr007<br>
-[Rishabh Singh](https://github.com/anonymousr007)<br>
+# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Variational Quantum EigenSolver (VQE)
+Team Name: **anonymousr007**<br>
+Team Member: [Rishabh Singh](https://github.com/anonymousr007)<br>
   <br>
+  **Matrix Model Simualtion using Variational Quantum EigenSolver (MMS_VQE)**<br>
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjXwax5fCxvnixzICJNOAHQY87oZCN-3?usp=sharing)
 </div>
 
 ## QHack 2022 - Coding Challenges
 
-- Solved all 25/25 Questions
+- Solved all 25/25 Questions 😎
   - PennyLane 101 1500 pts | 5 problems
   - Algorithms 1500 pts | 5 problems
   - Games 1500 pts | 5 problems
