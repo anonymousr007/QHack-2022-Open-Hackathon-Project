@@ -1,8 +1,9 @@
 <div align='center'>
   
-# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Variational Quantum EigenSolver (VQE)
+# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Variational Quantum EigenSolver (MMS_VQE)
+  This is the repository for the development of Xanadu's QHack 2022 Open Hackathon Challenge. <br>
 Team Name: **anonymousr007**<br>
-Team Member: [Rishabh Singh](https://github.com/anonymousr007)<br>
+Team Member: [Rishabh Singh](https://github.com/anonymousr007) (rishabh48singh@gmail.com)<br>
   <br>
   **Matrix Model Simualtion using Variational Quantum EigenSolver (MMS_VQE)**<br>
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjXwax5fCxvnixzICJNOAHQY87oZCN-3?usp=sharing)
