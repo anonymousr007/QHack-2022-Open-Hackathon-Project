@@ -7,6 +7,17 @@ Team Name: anonymousr007<br>
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjXwax5fCxvnixzICJNOAHQY87oZCN-3?usp=sharing)
 </div>
 
+## QHack 2022 - Coding Challenges
+
+- Solved all 25/25 Questions
+  - PennyLane 101 1500 pts | 5 problems
+  - Algorithms 1500 pts | 5 problems
+  - Games 1500 pts | 5 problems
+  - Quantum Chemistry 1500 pts | 5 problems
+  - Quantum Machine Learning 1500 pts | 5 problems
+
+![QHack 2022](https://github.com/anonymousr007/QHack-2022-Open-Hackathon-Project/blob/main/QHack-2022.png)
+
 ## Abstract
 
 This project aims to use a truncated (regularized) Hamiltonian for the matrix quantum mechanics models. This Hamiltonian is constructed by considering a truncated Hilbert space in the Fock basis. The truncated Hilbert space is constructed starting from the individual matrix degrees of freedom.
