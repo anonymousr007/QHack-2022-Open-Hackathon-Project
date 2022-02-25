@@ -1,6 +1,6 @@
 <div align='center'>
   
-# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Quantum Computing
+# QHack 2022 Open Hackathon Project: <br>Matrix-Model Simulations using Variational Quantum Eigensolver (VQE)
 Team Name: anonymousr007<br>
 [Rishabh Singh](https://github.com/anonymousr007)<br>
   
